@@ -1,5 +1,5 @@
 # DSKC-2020
-*BSc 2nd Year*
+*BSc 1st Year*
 ## PROJECT TITLE: SPACE-TIME NEAR BLACK HOLE 
 
 I participated in a team project on Spacetime near Black Holes. It was a theoretical project, and I served as the team leader.
