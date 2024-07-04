@@ -1,5 +1,6 @@
 # DSKC-2020
-SPACE-TIME NEAR BLACK HOLE 
+
+## PROJECT TITLE: SPACE-TIME NEAR BLACK HOLE 
 
 I participated in a team project on Spacetime near Black Holes. It was a theoretical project, and I served as the team leader.
 - **Foundation in General Relativity:** We first laid the groundwork for the General Theory of Relativity. We gained insights into the importance of tensors, used to describe various higher-dimensional quantities. We learned how gravity can be explained in terms of the curvature of spacetime using the metric tensor and the Riemann curvature tensor. We also explored the concepts of Minkowski spacetime. Additionally, we learned how to define geodesic equations for any curve using parallel transport with a covariant derivative. In studying the covariant derivative, we were introduced to connections, particularly Christoffel symbols (or Christoffel connections), which are metric-compatible and torsion-free. Following this, we learned about geodesic deviations and then moved towards Einstein's equations, where we saw the relationship between the curvature of spacetime and mass and energy.
