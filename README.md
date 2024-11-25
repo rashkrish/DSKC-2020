@@ -2,7 +2,7 @@
 *BSc 1st Year*
 ## PROJECT TITLE: SPACE-TIME NEAR BLACK HOLE 
 
-**Role:** Team Leader\\
+**Role:** Team Leader<br/>
 **Team Members:** Navita Kukreti, Neha Chaudhary, Sunidhi Rawat, Stanzin Angmo
 **Key Contributions:** - Taking doubt sessions for the group.
 - Working on Python code using EinsteinPy library to calculate Christoffel symbols and the Riemann tensor for a given metric.
