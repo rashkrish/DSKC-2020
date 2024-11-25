@@ -1,6 +1,7 @@
 # D.S. Kothari Centre for Research and Innovation (DSKC-2020)
 *BSc 1st Year*
-## PROJECT TITLE: SPACE-TIME NEAR BLACK HOLE 
+## PROJECT TITLE: SPACE-TIME NEAR BLACK HOLE
+***Mentor:** Asst. Prof. Sunita Singh (Miranda House, University of Delhi)*
 
 **Role:** Team Leader<br/>
 **Team Members:** Navita Kukreti, Neha Chaudhary, Sunidhi Rawat, Stanzin Angmo<br/>
