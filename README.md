@@ -4,6 +4,7 @@
 
 **Role:** Team Leader<br/>
 **Team Members:** Navita Kukreti, Neha Chaudhary, Sunidhi Rawat, Stanzin Angmo<br/>
+<br/>
 **Key Contributions:** 
 - Taking doubt sessions for the group.
 - Working on Python code using EinsteinPy library to calculate Christoffel symbols and the Riemann tensor for a given metric.
