@@ -1,7 +1,7 @@
 # DSKC-2020
 *BSc 1st Year*
 ## PROJECT TITLE: SPACE-TIME NEAR BLACK HOLE 
-
+\\
 **Role:** Team Leader
 **Team Members:** Navita Kukreti, Neha Chaudhary, Sunidhi Rawat, Stanzin Angmo
 **Key Contributions:** - Taking doubt sessions for the group.
