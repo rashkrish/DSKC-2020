@@ -6,9 +6,9 @@
 **Team Members:** Navita Kukreti, Neha Chaudhary, Sunidhi Rawat, Stanzin Angmo<br/>
 <br/>
 **Key Contributions:** 
-- Taking doubt sessions for the group.
-- Working on Python code using EinsteinPy library to calculate Christoffel symbols and the Riemann tensor for a given metric.
-  
+- Conducted doubt sessions for the group, providing guidance and clarifications.
+- Developed Python code using the EinsteinPy library to calculate Christoffel symbols and the Riemann tensor for a given metric.
+
 ### OVERVIEW
 - **Foundation in General Relativity:** We first laid the groundwork for the General Theory of Relativity and gained insights into the importance of tensors, which describe various higher-dimensional quantities. We learned how gravity can be explained in terms of the curvature of spacetime using the metric tensor and the Riemann curvature tensor. We also explored the concepts of Minkowski spacetime. Additionally, we learned how to define geodesic equations for any curve using parallel transport with a covariant derivative. In studying the covariant derivative, we were introduced to connections, particularly Christoffel symbols (or Christoffel connections), which are metric-compatible and torsion-free. Following this, we learned about geodesic deviations and then moved towards Einstein's equations, where we saw the relationship between the curvature of spacetime and mass and energy.
 
